@@ -1,6 +1,6 @@
 package com.whs.springbootredisdemo.distributelock.redisson.service.impl;
 
-import com.whs.redis.distributelock.redisson.service.RedissonService;
+import com.whs.springbootredisdemo.distributelock.redisson.service.RedissonService;
 import lombok.extern.slf4j.Slf4j;
 import org.redisson.api.RLock;
 import org.redisson.api.RedissonClient;

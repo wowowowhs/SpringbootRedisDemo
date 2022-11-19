@@ -1,7 +1,7 @@
 package com.whs.springbootredisdemo.springbootredis.service.impl;
 
-import com.whs.redis.springbootredis.entity.User;
-import com.whs.redis.springbootredis.service.SpringBootRedisService;
+import com.whs.springbootredisdemo.springbootredis.entity.User;
+import com.whs.springbootredisdemo.springbootredis.service.SpringBootRedisService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.redis.core.RedisTemplate;
 import org.springframework.data.redis.core.ValueOperations;

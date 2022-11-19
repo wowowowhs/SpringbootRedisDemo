@@ -1,6 +1,6 @@
 package com.whs.springbootredisdemo.distributelock.redisson.controller;
 
-import com.whs.redis.distributelock.redisson.service.RedissonService;
+import com.whs.springbootredisdemo.distributelock.redisson.service.RedissonService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

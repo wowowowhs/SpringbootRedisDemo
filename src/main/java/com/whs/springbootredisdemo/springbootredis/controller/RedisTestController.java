@@ -1,6 +1,6 @@
 package com.whs.springbootredisdemo.springbootredis.controller;
 
-import com.whs.redis.springbootredis.service.SpringBootRedisService;
+import com.whs.springbootredisdemo.springbootredis.service.SpringBootRedisService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
